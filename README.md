@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreekarpisupati&label=Profile%20views&color=0e75b6&style=flat" alt="sreekarpisupati" /> </p>
 
-- 🌱 I’m currently learning **Advanced Blockchain, Quantitative Finance and Full Stack Development**
+- 🌱 I’m currently interested in **AI/ML, Quantitative Finance, Blockchain Development and Full Stack Development**
 
 - 📫 How to reach me **psreekar24@gmail.com**
 
